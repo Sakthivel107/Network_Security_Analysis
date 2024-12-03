@@ -1,0 +1,9 @@
+python-dotenv
+Numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pymongo
+certifi
+pymongo[srv]
